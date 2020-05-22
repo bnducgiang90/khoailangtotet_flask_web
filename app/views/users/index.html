@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Index user</title>
+</head>
+<body>
+    <h1>Đây là index users</h1>
+    <a href="{{ url_for('bp_user.create')}}">
+        User create
+    </a>
+    <hr>
+    <a href="{{ url_for('bp_user.edit')}}">
+        User edit
+    </a>
+    <hr>
+    <a href="{{ url_for('main.index')}}">
+        Back to Home
+    </a>
+</body>
+</html>
