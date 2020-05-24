@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca153c28-c5e1-43dd-96fd-ea16a8736589" name="Default Changelist" comment="" />
+    <list default="true" id="ca153c28-c5e1-43dd-96fd-ea16a8736589" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flask-mvc-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flask-mvc-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/env/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/env/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/env/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/runServer.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cFLUZ9cfiukfb4juw2zH9J1ebU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -39,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590119410885</updated>
       <workItem from="1590119925929" duration="4648000" />
+      <workItem from="1590315536385" duration="117000" />
     </task>
     <servers />
   </component>
@@ -46,9 +60,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="301" y="72" key="SettingsEditor" timestamp="1590120249964">
+    <state x="301" y="72" key="SettingsEditor" timestamp="1590315592663">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1590120249964" />
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1590315592663" />
   </component>
 </project>

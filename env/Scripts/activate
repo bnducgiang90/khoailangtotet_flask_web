@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="E:\10.Python\Flask\KhaiLangFlaskWeb\flask-mvc-master\flask-mvc-master\env"
+VIRTUAL_ENV="E:\10.Python\git_svn\Flask\khoailangtotet_flask_web\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
